@@ -99,6 +99,13 @@ private:
         calculatorUi.lineEdit->setText(QString::number(result));
     }
 
+    void addNum(QString num) {
+        clearLineEdit();
+        allowedToDelete = false;
+        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + num);
+    }
+
+
     void clearLineEdit() {
         if (allowedToDelete) {
             calculatorUi.lineEdit->clear();
@@ -115,56 +122,16 @@ public:
 
 public slots:
 
-    void add0() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "0");
-    }
-    void add1() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "1");
-    }
-    void add2() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "2");
-    }
-    void add3() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "3");
-    }
-    void add4() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "4");
-    }
-    void add5() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "5");
-    }
-    void add6() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "6");
-    }
-    void add7() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "7");
-    }
-    void add8() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "8");
-    }
-    void add9() {
-        clearLineEdit();
-        allowedToDelete = false;
-        calculatorUi.lineEdit->setText(calculatorUi.lineEdit->text() + "9");
-    }
+    void add0() { addNum("0"); }
+    void add1() { addNum("1"); }
+    void add2() { addNum("2"); }
+    void add3() { addNum("3"); }
+    void add4() { addNum("4"); }
+    void add5() { addNum("5"); }
+    void add6() { addNum("6"); }
+    void add7() { addNum("7"); }
+    void add8() { addNum("8"); }
+    void add9() { addNum("9"); }
 
     void clearLine() { calculatorUi.lineEdit->clear(); }
 
