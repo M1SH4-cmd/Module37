@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Note2/">
+    <file alias="Main.qml">C:/Users/User/Desktop/Module37/Notes/Note2/Main.qml</file>
+  </qresource>
+</RCC>
+

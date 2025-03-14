@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/User/Desktop/Module37/Notes/Note2
+-cmake-output
+-output-file
+C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/qml_imports/appNote2_conf.cmake
+-importPath
+C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Note2
+-importPath
+C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.2/mingw_64/qml
+-qrcFiles
+C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Note2.qrc
+C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/appNote2_raw_qml_0.qrc

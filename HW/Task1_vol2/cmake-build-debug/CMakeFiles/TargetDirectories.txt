@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/CMakeFiles/Task1_vol2.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/CMakeFiles/Task1_vol2_autogen_timestamp_deps.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/CMakeFiles/Task1_vol2_autogen.dir
