@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Task1_vol2.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Task1_vol2_autogen_timestamp_deps.dir
+C:/Users/User/Desktop/Module37/HW/Task1_vol2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Task1_vol2_autogen.dir

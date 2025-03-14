@@ -1,0 +1,22 @@
+# ninja log v5
+3	471	7634232551440031	Task1_vol2_autogen/timestamp	efbcb174021a9a05
+3	471	7634232551440031	Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+3	471	7634232551440031	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/timestamp	efbcb174021a9a05
+3	471	7634232551440031	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+485	604	7634232553800028	CMakeFiles/Task1_vol2.dir/Task1_vol2_autogen/mocs_compilation.cpp.obj	3d710f33e91909dc
+478	1982	7634232567578341	CMakeFiles/Task1_vol2.dir/main.cpp.obj	4910ab3f8e8068e
+1993	2327	7634232570908339	Task1_vol2.exe	6aa5253d7d72d62f
+18	1373	7634236496571266	Task1_vol2_autogen/timestamp	efbcb174021a9a05
+18	1373	7634236496571266	Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+18	1373	7634236496571266	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/timestamp	efbcb174021a9a05
+18	1373	7634236496571266	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+1374	11411	7634236597776743	CMakeFiles/Task1_vol2.dir/main.cpp.obj	4910ab3f8e8068e
+1378	11483	7634236598491754	CMakeFiles/Task1_vol2.dir/Task1_vol2_autogen/mocs_compilation.cpp.obj	3d710f33e91909dc
+11483	11930	7634236602906765	Task1_vol2.exe	6aa5253d7d72d62f
+11	1316	7636501983001437	Task1_vol2_autogen/timestamp	efbcb174021a9a05
+11	1316	7636501983001437	Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+11	1316	7636501983001437	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/timestamp	efbcb174021a9a05
+11	1316	7636501983001437	C:/Users/User/Desktop/Module37/HW/Task1_vol2/cmake-build-debug/Task1_vol2_autogen/mocs_compilation.cpp	efbcb174021a9a05
+1323	6608	7636502037021425	CMakeFiles/Task1_vol2.dir/main.cpp.obj	4910ab3f8e8068e
+1317	6683	7636502037776705	CMakeFiles/Task1_vol2.dir/Task1_vol2_autogen/mocs_compilation.cpp.obj	3d710f33e91909dc
+6683	7394	7636502044831412	Task1_vol2.exe	6aa5253d7d72d62f
