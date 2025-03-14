@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>644</width>
-    <height>582</height>
+    <width>338</width>
+    <height>477</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -253,7 +253,7 @@ color: rgb(255, 255, 255);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>644</width>
+     <width>338</width>
      <height>22</height>
     </rect>
    </property>
@@ -269,12 +269,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add1()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>98</x>
-     <y>137</y>
+     <x>85</x>
+     <y>134</y>
     </hint>
     <hint type="destinationlabel">
      <x>107</x>
-     <y>466</y>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -285,12 +285,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add2()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>316</x>
-     <y>144</y>
+     <x>179</x>
+     <y>134</y>
     </hint>
     <hint type="destinationlabel">
      <x>141</x>
-     <y>427</y>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -301,12 +301,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add3()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>563</x>
-     <y>157</y>
+     <x>266</x>
+     <y>134</y>
     </hint>
     <hint type="destinationlabel">
-     <x>500</x>
-     <y>446</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -317,12 +317,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add4()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>146</x>
-     <y>263</y>
+     <x>85</x>
+     <y>213</y>
     </hint>
     <hint type="destinationlabel">
      <x>53</x>
-     <y>455</y>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -333,12 +333,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add5()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>372</x>
-     <y>233</y>
+     <x>179</x>
+     <y>210</y>
     </hint>
     <hint type="destinationlabel">
-     <x>461</x>
-     <y>404</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -349,12 +349,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add6()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>480</x>
-     <y>228</y>
+     <x>266</x>
+     <y>200</y>
     </hint>
     <hint type="destinationlabel">
-     <x>538</x>
-     <y>392</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -365,12 +365,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add7()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>186</x>
-     <y>333</y>
+     <x>85</x>
+     <y>276</y>
     </hint>
     <hint type="destinationlabel">
      <x>36</x>
-     <y>404</y>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -381,12 +381,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add8()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>284</x>
-     <y>322</y>
+     <x>179</x>
+     <y>265</y>
     </hint>
     <hint type="destinationlabel">
      <x>181</x>
-     <y>459</y>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -397,12 +397,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add9()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>607</x>
-     <y>334</y>
+     <x>266</x>
+     <y>276</y>
     </hint>
     <hint type="destinationlabel">
-     <x>591</x>
-     <y>463</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -413,12 +413,12 @@ color: rgb(255, 255, 255);</string>
    <slot>add0()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>378</x>
-     <y>447</y>
+     <x>179</x>
+     <y>317</y>
     </hint>
     <hint type="destinationlabel">
-     <x>584</x>
-     <y>417</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>
@@ -429,12 +429,12 @@ color: rgb(255, 255, 255);</string>
    <slot>makeCall()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>319</x>
-     <y>511</y>
+     <x>248</x>
+     <y>404</y>
     </hint>
     <hint type="destinationlabel">
-     <x>444</x>
-     <y>457</y>
+     <x>258</x>
+     <y>358</y>
     </hint>
    </hints>
   </connection>

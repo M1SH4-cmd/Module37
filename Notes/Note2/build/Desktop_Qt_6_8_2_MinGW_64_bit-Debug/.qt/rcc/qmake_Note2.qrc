@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Note2">
+    <file alias="qmldir">C:/Users/User/Desktop/Module37/Notes/Note2/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Note2/qmldir</file>
+  </qresource>
+</RCC>
+

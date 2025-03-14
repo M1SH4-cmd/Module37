@@ -1,0 +1,5 @@
+module Note2
+typeinfo appNote2.qmltypes
+prefer :/qt/qml/Note2/
+Main 1.0 Main.qml
+

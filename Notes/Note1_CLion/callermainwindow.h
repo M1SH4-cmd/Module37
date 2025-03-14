@@ -18,19 +18,6 @@ public:
         // Настраиваем интерфейс
         callerUi.setupUi(this);
         lineEdit = callerUi.lineEdit; // Инициализируем lineEdit
-
-        // Подключаем кнопки к слотам
-        connect(callerUi.pushButton, &QPushButton::clicked, this, &CallerMainWindow::add1);
-        connect(callerUi.pushButton_6, &QPushButton::clicked, this, &CallerMainWindow::add2);
-        connect(callerUi.pushButton_9, &QPushButton::clicked, this, &CallerMainWindow::add3);
-        connect(callerUi.pushButton_10, &QPushButton::clicked, this, &CallerMainWindow::add4);
-        connect(callerUi.pushButton_8, &QPushButton::clicked, this, &CallerMainWindow::add5);
-        connect(callerUi.pushButton_7, &QPushButton::clicked, this, &CallerMainWindow::add6);
-        connect(callerUi.pushButton_5, &QPushButton::clicked, this, &CallerMainWindow::add7);
-        connect(callerUi.pushButton_4, &QPushButton::clicked, this, &CallerMainWindow::add8);
-        connect(callerUi.pushButton_3, &QPushButton::clicked, this, &CallerMainWindow::add9);
-        connect(callerUi.pushButton_2, &QPushButton::clicked, this, &CallerMainWindow::add0);
-        connect(callerUi.pushButton_11, &QPushButton::clicked, this, &CallerMainWindow::makeCall);
     }
 
 public slots:
