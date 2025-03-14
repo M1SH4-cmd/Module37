@@ -1,0 +1,5 @@
+module Task2_vol2
+typeinfo appTask2_vol2.qmltypes
+prefer :/qt/qml/Task2_vol2/
+Main 1.0 Main.qml
+
